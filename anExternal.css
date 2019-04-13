@@ -1,0 +1,49 @@
+p.a {
+	font-style: bold;
+	size:10px;
+}
+
+p.b {
+	font-size: oblique;
+	size:20px;
+}
+
+img.catphotosize{
+	height: 50px;
+	width: 50px;
+}
+
+.container {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+p.z {
+	border-style: dotted;
+}
+
+p.k{
+	color: yellow; 
+	background: white;
+	border-radius: 30px;
+	padding: 40px; 
+	width: 100px;
+	height: 120px;	
+}
+
+img.m{
+	height: 100px;
+	width: 120px;
+	float: middle;
+}
+
+
+
