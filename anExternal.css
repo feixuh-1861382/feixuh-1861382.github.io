@@ -1,11 +1,11 @@
 p.a {
 	font-style: bold;
-	size:10px;
+	font-size: 10px;
 }
 
 p.b {
-	font-size: oblique;
-	size:20px;
+	font-style: oblique;
+	font-size: 20px;
 }
 
 img.catphotosize{
