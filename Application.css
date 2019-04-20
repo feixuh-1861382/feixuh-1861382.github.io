@@ -1,0 +1,45 @@
+h2{
+	color:purple;
+	font-size: 60px;
+	font-family:"Times New Roman";
+	text-align: center;
+	outline: 5px dotted green;
+}
+
+legend{
+	color:navy;
+	font-size: 40px;
+	font-family:"arial";
+	border-bottom: 5px solid red;
+}
+
+label{
+	color:olive;
+	font-size: 25px;
+	box-shadow: 1px 2px;
+}
+
+th{
+	color:green;
+	font-size: 25px;
+	text-decoration: line-through;
+}
+
+li{
+	color:blue;
+	font-size: 25px;
+	font-family:"serif";
+	font-variant: small-caps;
+}
+
+div{
+	color:orange;
+	font-size: 25px;
+	font-family:"sans-serif";
+	width:auto;
+	border: 0.5px solid blue;
+}
+
+input{
+	font-size:15px;
+}
